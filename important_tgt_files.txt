@@ -68,7 +68,8 @@
     "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_02.tdtx:4-y:2": "The Cavern of Wrath42"
   },
   "1_1_9a": {
-    "Metadata/Terrain/Beach/Features/Ships/boat_small_damaged_allflame_v01_01.tdtx:0-y:0": "Quest: Slave Girl"
+    "Metadata/Terrain/Beach/Features/Ships/boat_small_damaged_allflame_v01_01.tdtx:0-y:0": "Quest: Slave Girl",
+    "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:1": "The Ship Graveyard"
   },
   "1_1_11_1": {
     "Metadata/Terrain/Cave/Features/caveskeleton_exit_v01_01.tdtx:3-y:3": "The Ship Graveyard",
