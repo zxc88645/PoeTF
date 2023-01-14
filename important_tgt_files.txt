@@ -49,9 +49,9 @@
   },
   "1_1_7_2": {
     "Metadata/Terrain/Prison/Features/prison_entrance_down_v01_01.tdtx:0-y:0": "The Lower Prison",
-    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:0-y:1": "The Warden's Quarters",
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:0-y:1": "The Warden's Quarters up",
     "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_02.tdtx:0-y:1": "The Warden's Chambers",
-    "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_01.tdtx:0-y:1": "The Warden's Quarters",
+    "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_01.tdtx:0-y:1": "The Warden's Quarters exit",
     "Metadata/Terrain/Prison/Features/prison_door_up_v01_01.tdtx:0-y:1": "Prisoner's Gate"
   },
   "1_1_8": {
