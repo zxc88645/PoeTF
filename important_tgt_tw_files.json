@@ -50,13 +50,13 @@
   "1_1_7_2": {
     "Metadata/Terrain/Prison/Features/prison_entrance_down_v01_01.tdtx:0-y:0": "禁靈之獄下層",
     "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:0-y:1": "禁靈之獄上層To監獄宿舍",
-    "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_02.tdtx:0-y:1": "典獄長的房間",
+    "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_02.tdtx:0-y:1": "監獄宿舍To典獄長的房間",
     "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_01.tdtx:0-y:1": "典獄長的房間To監獄宿舍",
     "Metadata/Terrain/Prison/Features/prison_door_up_v01_01.tdtx:0-y:1": "監獄大門"
   },
   "1_1_8": {
     "Metadata/Terrain/Beach/Features/beach_傳送點_v01_01.tdtx:0-y:0": "傳送點",
-    "Metadata/Terrain/Beach/Transitions/ShipgraveyardPassageway/shipgraveyard_passageway_v01_01a.tdtx:3-y:3": "The Ship Graveyard",
+    "Metadata/Terrain/Beach/Transitions/ShipgraveyardPassageway/shipgraveyard_passageway_v01_01a.tdtx:3-y:3": "魅影船墓",
     "Metadata/Terrain/Beach/Transitions/beach_passageblock_v01_01.tdtx:3-y:4": "西部密林"
   },
   "1_1_9": {
@@ -68,10 +68,11 @@
     "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_02.tdtx:4-y:2": "The Cavern of Wrath2"
   },
   "1_1_9a": {
-    "Metadata/Terrain/Beach/Features/Ships/boat_small_damaged_allflame_v01_01.tdtx:0-y:0": "Quest: Slave Girl"
+    "Metadata/Terrain/Beach/Features/Ships/boat_small_damaged_allflame_v01_01.tdtx:0-y:0": "Quest: Slave Girl",
+    "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:1": "魅影船墓"
   },
   "1_1_11_1": {
-    "Metadata/Terrain/Cave/Features/caveskeleton_exit_v01_01.tdtx:3-y:3": "The Ship Graveyard",
+    "Metadata/Terrain/Cave/Features/caveskeleton_exit_v01_01.tdtx:3-y:3": "魅影船墓",
     "Metadata/Terrain/Beach/Features/beach_傳送點_v01_01.tdtx:0-y:0": "傳送點",
     "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:0": "The Cavern of Anger"
   },
