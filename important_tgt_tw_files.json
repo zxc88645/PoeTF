@@ -83,10 +83,10 @@
   },
   "1_2_1": {
     "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
-    "Metadata/Terrain/Forest/Transitions/forestcamp_dock_v01_01.tdtx:1-y:3": "The Forest Encampment"
+    "Metadata/Terrain/Forest/Transitions/forestcamp_dock_v01_01.tdtx:1-y:3": "森林營地"
   },
   "1_2_2": {
-    "Metadata/Terrain/Forest/Transitions/forestcamp_right_v01_01.tdtx:3-y:4": "The Forest Encampment",
+    "Metadata/Terrain/Forest/Transitions/forestcamp_right_v01_01.tdtx:3-y:4": "森林營地",
     "Metadata/Terrain/Forest/Transitions/road_wall_gate_v01_01.tdtx:1-y:1": "The Crossroads",
     "Metadata/Terrain/ForestCave/Features/forestcave_entrance_hole_v01_01.tdtx:0-y:0": "The Den"
   },
@@ -129,42 +129,42 @@
     "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_questcart.tdtx:0-y:0": "Quest: Strange Device"
   },
   "1_2_7": {
-    "Metadata/Terrain/Forest/Transitions/forestcamp_left_v01_01.tdtx:6-y:3": "The Forest Encampment",
-    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
-    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:2": "The Wetlands",
-    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:4-y:1": "The Western Forest"
+    "Metadata/Terrain/Forest/Transitions/forestcamp_left_v01_01.tdtx:6-y:3": "森林營地",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "傳送點",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:2": "濕地",
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:4-y:1": "西部密林"
   },
   "1_2_9": {
-    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:0-y:1": "The Riverways",
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:0-y:1": "河道",
     "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
     "Metadata/Terrain/Forest/Features/BanditCamp/treewitch_camp_v01_02.tdtx:0-y:4": "Quest: Alira",
     "Metadata/Terrain/Forest/Transitions/forest_mountainpass_v01_01.tdtx:13-y:3": "Quest",
     "Metadata/Terrain/Forest/Transitions/forest_mountainpass_v01_01.tdtx:3-y:3": "Prisoner's Gate",
-    "Metadata/Terrain/Forest/Transitions/spidergrove_entrance_v01_01.tdtx:3-y:1": "The Weaver's Chambers"
+    "Metadata/Terrain/Forest/Transitions/spidergrove_entrance_v01_01.tdtx:3-y:1": "織網者巢穴"
   },
   "1_2_10": {
-    "Metadata/Terrain/SpiderGrove/Features/spidergrove_exit_lit_v01_01.tdtx:0-y:1": "The Western Forest",
+    "Metadata/Terrain/SpiderGrove/Features/spidergrove_exit_lit_v01_01.tdtx:0-y:1": "西部密林",
     "Metadata/Terrain/SpiderGrove/Features/spidergrove_exit_v01_01.tdtx:0-y:1": "Area Transition"
   },
   "1_2_12": {
-    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:1": "The Riverways",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:1": "河道",
     "Metadata/Terrain/Forest/Features/Tents/forest_tent_v04_01.tdtx:1-y:0": "Quest: Qak",
     "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
-    "Metadata/Terrain/Forest/Transitions/forest_caveentrance_inca_v01_02.tdtx:2-y:1": "The Vaal Ruins"
+    "Metadata/Terrain/Forest/Transitions/forest_caveentrance_inca_v01_02.tdtx:2-y:1": "瓦爾廢墟"
   },
   "1_2_11": {
     "Metadata/Terrain/Dungeon/Features/dungeon_inca_exit_v01_01.tdtx:0-y:1": "Area Transition",
     "Metadata/Terrain/Dungeon/Features/dungeon_bossrelease_v01_01.tdtx:1-y:0": "Quest: Ancient Seal"
   },
   "1_2_8": {
-    "Metadata/Terrain/Forest/Transitions/forest_caveexit_inca_v01_01.tdtx:2-y:0": "The Vaal Ruins",
+    "Metadata/Terrain/Forest/Transitions/forest_caveexit_inca_v01_01.tdtx:2-y:0": "瓦爾廢墟",
     "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
-    "Metadata/Terrain/Forest/Transitions/grovewall_entrance_v01_01.tdtx:0-y:1": "The Dread Thicket",
-    "Metadata/Terrain/Forest/Transitions/waterfall_cave_entrance_v01_01.tdtx:2-y:3": "The Caverns"
+    "Metadata/Terrain/Forest/Transitions/grovewall_entrance_v01_01.tdtx:0-y:1": "驚魂樹洞",
+    "Metadata/Terrain/Forest/Transitions/waterfall_cave_entrance_v01_01.tdtx:2-y:3": "瀑布洞穴"
   },
   "1_2_13": {
     "Metadata/Terrain/Grove/Features/grove_wall_exit_v01_01.tdtx:0-y:1": "Area Transition",
-    "Metadata/Terrain/ForestCave/Features/forestcave_entrance_hole_v01_01.tdtx:0-y:0": "Lush Hideout"
+    "Metadata/Terrain/ForestCave/Features/forestcave_entrance_hole_v01_01.tdtx:0-y:0": "藏身處-富饒之地"
   },
   "1_2_14_2": {
     "Metadata/Terrain/ForestCave/Features/forestcave_exit_down_v01_01.tdtx:1-y:0": "The Northern Forest",
@@ -453,18 +453,18 @@
     "Metadata/Terrain/Beach/Transitions/BeachToSwamp/beach_togoatboss_v01_03.tdtx:5-y:3": "Area Transition",
     "Metadata/Terrain/Beach/Transitions/BeachToSwamp/beach_togoatboss_v01_01.tdtx:8-y:3": "Area Transition",
     "Metadata/Terrain/Beach/Transitions/BeachToSwamp/beach_togoatboss_v01_02.tdtx:8-y:3": "Area Transition",
-    "Metadata/Terrain/Beach/Transitions/beach_passageblock_v01_01.tdtx:5-y:3": "The Western Forest"
+    "Metadata/Terrain/Beach/Transitions/beach_passageblock_v01_01.tdtx:5-y:3": "西部密林"
   },
   "2_6_9": {
     "Metadata/Terrain/Forest/Transitions/forest_mountainpass_v01_01.tdtx:3-y:3": "Prisoner's Gate",
     "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
     "Metadata/Terrain/Forest/Features/forest_tallstones_empty.tdtx:1-y:2": "Area Boss",
-    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:1-y:1": "The Riverways"
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:1-y:1": "河道"
   },
   "2_6_10": {
-    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:5-y:1": "The Western Forest",
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:5-y:1": "西部密林",
     "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
-    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:1-y:1": "The Wetlands",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:1-y:1": "濕地",
     "Metadata/Terrain/Forest/Transitions/forest_to_river_v01_01.tdtx:5-y:1": "The Southern Forest"
   },
   "2_6_12": {
@@ -485,7 +485,7 @@
     "Metadata/Terrain/Beach/Beacon/beach_walkablelargecliffwater_weylamwalk_v01_01.tdtx:3-y:5": "Area Transition"
   },
   "2_6_11": {
-    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:1-y:1": "The Riverways",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:1-y:1": "河道",
     "Metadata/Terrain/Forest/Transitions/forest_caveentrance_v01_01.tdtx:2-y:3": "Area Transition"
   },
   "2_6_15": {
@@ -543,7 +543,7 @@
   },
   "2_7_8": {
     "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
-    "Metadata/Terrain/Forest/Transitions/grovewall_entrance_v01_01.tdtx:0-y:1": "The Dread Thicket",
+    "Metadata/Terrain/Forest/Transitions/grovewall_entrance_v01_01.tdtx:0-y:1": "驚魂樹洞",
     "Metadata/Terrain/Forest/Transitions/forestriver_plinthtransition_v01_01.tdtx:3-y:2": "The Causeway",
     "Metadata/Terrain/Forest/Features/forest_azmeri_shrine.tdtx:1-y:1": "Quest: Azmeri Shrine"
   },
