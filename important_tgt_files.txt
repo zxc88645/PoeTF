@@ -64,8 +64,8 @@
     "Metadata/Terrain/Beach/Features/beach_shipgraveyard_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
     "Metadata/Terrain/Beach/Quest Locations/shipwreck_quest_v01_01.tdtx:8-y:7": "Fairgraves",
     "Metadata/Terrain/Beach/Transitions/ship_entrance_v01_01.tdtx:1-y:4": "The Ship Graveyard Cave",
-    "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_01.tdtx:5-y:6": "The Cavern of Wrath",
-    "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_02.tdtx:4-y:2": "The Cavern of Wrath"
+    "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_01.tdtx:5-y:6": "The Cavern of Wrath56",
+    "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_02.tdtx:4-y:2": "The Cavern of Wrath42"
   },
   "1_1_9a": {
     "Metadata/Terrain/Beach/Features/Ships/boat_small_damaged_allflame_v01_01.tdtx:0-y:0": "Quest: Slave Girl"
