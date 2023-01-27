@@ -3,7 +3,7 @@
     "Metadata/Terrain/Beach/Transitions/beachtown_south_entrance_test.tdtx:1-y:5": "Lioneye's Watch"
   },
   "1_1_2": {
-    "Metadata/Terrain/Beach/Transitions/beachtown_north_entrance_v2.tdtx:5-y:1": "Lioneye's Watch",
+    "Metadata/Terrain/Beach/Transitions/beachtown_north_entrance_v2.tdtx:1-y:0": "Lioneye's Watch",
     "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
     "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_area2_transition_v01_01.tdtx:3-y:1": "The Mud Flats",
     "Metadata/Terrain/Beach/Transitions/TidalIsland/act1_karui_coast_to_island_transition_v01_01.tdtx:9-y:3": "The Tidal Island"
