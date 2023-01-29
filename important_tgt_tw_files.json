@@ -3,7 +3,7 @@
     "Metadata/Terrain/Beach/Transitions/beachtown_south_entrance_test.tdtx:1-y:5": "獅眼守望"
   },
   "1_1_2": {
-    "Metadata/Terrain/Beach/Transitions/beachtown_north_entrance_v2.tdtx:5-y:1": "獅眼守望",
+    "Metadata/Terrain/Beach/Transitions/beachtown_north_entrance_v2.tdtx:1-y:0": "獅眼守望",
     "Metadata/Terrain/Beach/Features/beach_傳送點_v01_01.tdtx:0-y:0": "傳送點",
     "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_area2_transition_v01_01.tdtx:3-y:1": "炙熱鹽沼",
     "Metadata/Terrain/Beach/Transitions/TidalIsland/act1_karui_coast_to_island_transition_v01_01.tdtx:9-y:3": "海潮孤島"
